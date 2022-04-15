@@ -1,4 +1,3 @@
-"# micheljpdufour" 
 
 create a branch on github
 create a folder
