@@ -1,5 +1,6 @@
 "# micheljpdufour" 
 
+create a branch on github
 create a folder
 cd to the folder
 echo "# micheljpdufour" >> README.md
